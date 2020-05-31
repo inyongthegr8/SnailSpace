@@ -1,0 +1,2 @@
+rootProject.name='Celestial Snails'
+include ':app'

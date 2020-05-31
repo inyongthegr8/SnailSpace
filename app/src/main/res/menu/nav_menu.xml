@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/journal"
+                android:icon="@drawable/ic_book"
+                android:title="Journal" />
+            <item
+                android:id="@+id/addEntry"
+                android:icon="@drawable/ic_new"
+                android:title="Add Journal Entry" />
+            <item
+                android:id="@+id/syncJournal"
+                android:icon="@drawable/ic_notification"
+                android:title="Sync Journal" />
+        </menu>
+    </item>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_sna"
+                android:title="About" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_linked"
+                android:title="Share App" />
+        </menu>
+    </item>
+
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_project"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

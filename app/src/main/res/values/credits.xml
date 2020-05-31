@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* Copyright (c) 2010-2011 Pierre LEVY androidsoft.org
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+-->
+
+<resources>
+    <string-array name="credits">
+        <item>*by Nicco Kunzmann</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item>License</item>
+        <item translatable="false">*</item>
+        <item>*This program is free software:</item>
+        <item>*you can redistribute it and/or </item>
+        <item>*modify it under the terms of the </item>
+        <item>*GNU General Public License </item>
+        <item>*as published by the Free Software</item>
+        <item>*Foundation, either version 3 </item>
+        <item>*of the License, or (at your option)</item>
+        <item>*any later version.</item>
+        <item translatable="false">*</item>
+        <item>*The prior version Coloring for Kids</item>
+        <item>*was published by androidsoft.org</item>
+        <item translatable="false">*</item>
+        <item>*The original version was published</item>
+        <item>*by Peter Dornbach</item>
+        <item>*under Apache License 2.0</item>
+        <item>*for more information see</item>
+        <item translatable="false">*http://www.zebra4me.com/</item>
+        <item translatable="false">*</item>
+        <item>*Icons are published</item>
+        <item>*by Everaldo Coelho</item>
+        <item>*under the terms of the GNU</item>
+        <item>*Lesser General Public License.</item>
+        <item translatable="false">*</item>
+        <item>*Drawings provided by kind </item>
+        <item>*courtesy of Peter Dornbach</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item>Credits</item>
+        <item translatable="false">*</item>
+        <item>*/* Main developer */</item>
+        <item translatable="false">*</item>
+        <item>*Peter Dornbach</item>
+        <item translatable="false">*</item>
+        <item>*/* GNU version contributors */</item>
+        <item translatable="false">*</item>
+        <item>*Pierre Levy</item>
+        <item>*Nicco Kunzmann</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item>*Copyright (c) 2010-2011 P. Dornbach, P. Levy</item>
+        <item>*Copyright (c) 2020 Nicco Kunzmann</item>
+        <item>*Source Code:</item>
+        <item translatable="false">*https://github.com/niccokunzmann/coloring-book</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item translatable="false">*</item>
+        <item>*This project is using the Weka library.</item>
+        <item translatable="false">*https://www.cs.waikato.ac.nz/ml/weka/</item>
+        <item translatable="false">*</item>
+    </string-array>
+</resources>
+
